@@ -1,7 +1,10 @@
 <div align=center><h1>Hi there 👋</h1></div>
 
 <div>
-<div align=center><h1>📚 STUDYING</h1></div>
+<div align=center> 
+  
+📚 STUDYING</div>
+
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
